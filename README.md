@@ -1,5 +1,4 @@
 # Basic Blockchain in Java
-## Coder Snacks : https://www.twitch.tv/codersnacks
 ### IntelliJ IDEA Ultimate Instructions
  * Install Intellij - If you're a student, you can do this for free: https://www.jetbrains.com/community/education/#students
  * Download the source code form the **Intellij branch** repo or clone the repo to your local computer
